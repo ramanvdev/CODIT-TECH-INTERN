@@ -1,0 +1,31 @@
+============================================================
+CampusBot - AI Chatbot with NLP (Demo Conversation)
+============================================================
+You      : Hi there!
+[tokens] : ['hi', 'there']
+CampusBot: Hello! I'm CampusBot, your internship assistant. How can I help you today?
+------------------------------------------------------------
+You      : What is your name?
+[tokens] : ['what', 'is', 'your', 'name']
+CampusBot: I'm CampusBot, a small NLP-based chatbot built for the CODTECH internship task.
+------------------------------------------------------------
+You      : Tell me about the internship
+[tokens] : ['tell', 'me', 'about', 'the', 'internship']
+CampusBot: CODTECH IT Solutions offers Python, web development, and data science internships with hands-on tasks and a completion certificate.
+------------------------------------------------------------
+You      : What tasks do I need to complete?
+[tokens] : ['what', 'tasks', 'do', 'i', 'need', 'to', 'complete']
+CampusBot: This internship has 4 tasks: API Integration & Visualization, Automated Report Generation, an AI Chatbot with NLP, and a Machine Learning Model. You must attempt all four.
+------------------------------------------------------------
+You      : When is the submission deadline?
+[tokens] : ['when', 'is', 'the', 'submission', 'deadline']
+CampusBot: Tasks must be submitted before the internship deadline via your GitHub repository link.
+------------------------------------------------------------
+You      : Thanks a lot!
+[tokens] : ['thanks', 'a', 'lot']
+CampusBot: You're welcome! Happy to help.
+------------------------------------------------------------
+You      : Bye
+[tokens] : ['bye']
+CampusBot: Goodbye! All the best with your internship tasks.
+------------------------------------------------------------
